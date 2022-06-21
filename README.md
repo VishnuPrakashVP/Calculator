@@ -1,4 +1,4 @@
-#Calculator App
+###Calculator App
 
 This project was created using React functional components and mainly includes useReducer hook.
 
